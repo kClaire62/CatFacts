@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fef6e4;
+  text-align: center;
+  padding: 2em;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background-color: #fff;
+  padding: 2em;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+#fact-box {
+  margin: 25px 0;
+  font-size: 1.2em;
+  color: #333;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #ffb703;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #fb8500;
+}
+
+#error-message {
+  color: red;
+  margin-top: 1em;
+}
