@@ -10,6 +10,6 @@ A simple site that shows a cat fact from the [catfacts](file:///C:/Users/HEB%20L
 
 ## Features
 
-- Click button to load a cat fact.
+- Click button to load a cat facts.
 - Styled with CSS.
 - Uses `fetch()` to call API.
