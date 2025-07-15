@@ -1,3 +1,4 @@
+//You just need to disable the button to prevent re-clicking while loading.
 const factBox = document.getElementById('fact-box');
 const getFactBtn = document.getElementById('get-fact-btn');
 const errorMessage = document.getElementById('error-message');
